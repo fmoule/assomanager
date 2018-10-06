@@ -1,3 +1,14 @@
+
+### Fichiers d'IDE
+
+*.ipr
+*.iml
+*.iws
+.idea/
+
+
+### Fichiers de compilation
+
 # Compiled class file
 *.class
 
